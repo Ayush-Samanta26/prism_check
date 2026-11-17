@@ -6,7 +6,7 @@
 
 🔗 **Live Prototype:** [Prism App Preview](https://prism-factcheck--76p5r4m4.preview.emergentagent.com/)
 
-💻 **GitHub Repository:** [Ayush-Samanta26 GitHub](https://github.com/Ayush-Samanta26-)
+💻 **GitHub Repository:** [Ayush-Samanta26 GitHub](https://github.com/Ayush-Samanta26/prism_check)
 
 🎥 **Public Demo Video:** [Watch the 2–4 Minute Prototype Walkthrough](https://youtu.be/4g9CaXvF99k?si=Ey8kouzx6MqxNQoN)
 
